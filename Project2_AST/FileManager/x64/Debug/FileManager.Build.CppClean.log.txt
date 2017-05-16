@@ -1,0 +1,12 @@
+c:\users\hanee\downloads\nithin\project2helpercode\filemanager\x64\debug\filemanager.pdb
+c:\users\hanee\downloads\nithin\project2helpercode\filemanager\x64\debug\filemanager.idb
+c:\users\hanee\downloads\nithin\project2helpercode\filemanager\x64\debug\filesystem.obj
+c:\users\hanee\downloads\nithin\project2helpercode\filemanager\x64\debug\filemgr.obj
+c:\users\hanee\downloads\nithin\project2helpercode\x64\debug\filemanager.lib
+c:\users\hanee\downloads\nithin\project2helpercode\x64\debug\filemanager.pdb
+c:\users\hanee\downloads\nithin\project2helpercode\filemanager\x64\debug\filemanager.tlog\cl.command.1.tlog
+c:\users\hanee\downloads\nithin\project2helpercode\filemanager\x64\debug\filemanager.tlog\cl.read.1.tlog
+c:\users\hanee\downloads\nithin\project2helpercode\filemanager\x64\debug\filemanager.tlog\cl.write.1.tlog
+c:\users\hanee\downloads\nithin\project2helpercode\filemanager\x64\debug\filemanager.tlog\lib-link.read.1.tlog
+c:\users\hanee\downloads\nithin\project2helpercode\filemanager\x64\debug\filemanager.tlog\lib-link.write.1.tlog
+c:\users\hanee\downloads\nithin\project2helpercode\filemanager\x64\debug\filemanager.tlog\lib.command.1.tlog

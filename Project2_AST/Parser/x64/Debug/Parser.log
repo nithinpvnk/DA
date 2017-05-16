@@ -1,0 +1,11 @@
+﻿  Typetable.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  Utilities.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  FileSystem.cpp
+  Generating Code...
+  Parser.vcxproj -> C:\Users\Teja\Downloads\PR3\Project2_AST\x64\Debug\Parser.lib

@@ -1,0 +1,4 @@
+﻿  QWorkedItems.cpp
+QWorkedItems.obj : error LNK2019: unresolved external symbol "public: static void __cdecl Utilities::StringHelper::Title(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,char)" (?Title@StringHelper@Utilities@@SAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@D@Z) referenced in function main
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Nithin\Downloads\Parser-AST_603645986\nithin\Project2_AST\x64\Debug\QWorkedItems.exe : fatal error LNK1120: 2 unresolved externals

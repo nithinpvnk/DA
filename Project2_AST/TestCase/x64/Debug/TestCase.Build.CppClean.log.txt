@@ -1,0 +1,13 @@
+c:\users\hanee\downloads\nithin\project2helpercode\testcase\x64\debug\vc140.pdb
+c:\users\hanee\downloads\nithin\project2helpercode\testcase\x64\debug\vc140.idb
+c:\users\hanee\downloads\nithin\project2helpercode\testcase\x64\debug\testcase1.obj
+c:\users\hanee\downloads\nithin\project2helpercode\testcase\x64\debug\testcase2.obj
+c:\users\hanee\downloads\nithin\project2helpercode\x64\debug\testcase.ilk
+c:\users\hanee\downloads\nithin\project2helpercode\x64\debug\testcase.exe
+c:\users\hanee\downloads\nithin\project2helpercode\x64\debug\testcase.pdb
+c:\users\hanee\downloads\nithin\project2helpercode\testcase\x64\debug\testcase.tlog\cl.command.1.tlog
+c:\users\hanee\downloads\nithin\project2helpercode\testcase\x64\debug\testcase.tlog\cl.read.1.tlog
+c:\users\hanee\downloads\nithin\project2helpercode\testcase\x64\debug\testcase.tlog\cl.write.1.tlog
+c:\users\hanee\downloads\nithin\project2helpercode\testcase\x64\debug\testcase.tlog\link.command.1.tlog
+c:\users\hanee\downloads\nithin\project2helpercode\testcase\x64\debug\testcase.tlog\link.read.1.tlog
+c:\users\hanee\downloads\nithin\project2helpercode\testcase\x64\debug\testcase.tlog\link.write.1.tlog
